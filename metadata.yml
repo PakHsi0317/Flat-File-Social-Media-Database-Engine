@@ -1,0 +1,12 @@
+---
+:id: 345947778
+:submitters:
+- :name: Baixi Jiao
+  :email: bjiao6@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-09-11 02:53:19.143350000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-09-10 19:53:19.143350000 Z
+:status: processed
+:score: 130.0
